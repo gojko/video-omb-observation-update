@@ -17,7 +17,7 @@ voice: brooke
 
 (pause: 4)
 
-<!-- ---
+
 ![](CAMS Weed App.png)
 
 Hi! On our mission to make Wellington Old Man's Beard Free, we're using a map to manage and track our efforts in controlling the weed.
@@ -133,6 +133,7 @@ This shows the legend at the bottom of the page.
 
 Scroll down to see a description of all the colours.
 
+<!--
 ---
 ![](CAMS Field Maps Legend.png)
 
